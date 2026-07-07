@@ -15,6 +15,12 @@ Root 是一片已经存在的森林。我们不是创造它，只是在发现它
 - [notes/ideas.md](notes/ideas.md)：未确认、待校准或被森林暂时拒绝的想法
 - [notes/version_log.md](notes/version_log.md)：Root 版本记录
 
+## 当前状态
+
+当前仓库已整理至 Root v2.0 补充发现。
+
+v2.0 不建立第二个 Root，也不推翻 v1.0 根法则。它只把通过 Validator 的新增发现补入同一个世界。
+
 ## 最高规则
 
 Root 中所有存在最终只属于三者之一：
